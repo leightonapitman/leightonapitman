@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello
+
+You've managed to come across the GitHub profile of Colorado-based software professional, Leighton Pitman.
 
 <!--
 **leightonapitman/leightonapitman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
